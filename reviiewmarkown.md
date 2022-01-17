@@ -4,6 +4,6 @@
 
 ## table of content
 
-|Topic|link||   |   |
-|---|---|---|---|---|
-|markdown|[link](./README.md)|
+| Topic | link | 
+|---|---|
+| markdown  | [link](./topics/README.MD) | |
